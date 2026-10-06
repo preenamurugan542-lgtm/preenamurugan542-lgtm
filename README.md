@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi GitHub! I'm Preena, a first-year B.Tech IT student at St. Joseph's College of Engineering, Chennai.
+
+I chose IT because I'm curious about how technology works behind the scenes and how it shapes everyday life. My career goal is to become a skilled IT professional who builds solutions that actually make people's lives easier.
+
+Right now I'm building my foundation: programming basics, problem-solving, and Git/GitHub (hello, this is my first step! 😄).
+
+📌 Next up: my first project, hackathons, and internships.
+
+#CareerGoals #InformationTechnology #FirstYear #LearningInPublic
 
 <!--
 **preenamurugan542-lgtm/preenamurugan542-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
